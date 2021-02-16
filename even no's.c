@@ -16,6 +16,6 @@ int main()
             printf("%d\n", i);
         }
     }
-
+    getch();
     return 0;
 }
